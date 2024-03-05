@@ -1,2 +1,2 @@
-# Medhav-Ecommerce-Sales-Dashboard
+# Madhav-Ecommerce-Sales-Dashboard
 Ecommerce Sales Dashboard
